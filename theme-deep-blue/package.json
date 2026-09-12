@@ -1,0 +1,19 @@
+{
+    "name": "deep-blue",
+    "displayName": "Deep Blue",
+    "description": "Tema personalizado Deep Blue",
+    "version": "1.0.0",
+    "publisher": "Bruno",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/themes.json"
+            }
+        ]
+    }
+}
