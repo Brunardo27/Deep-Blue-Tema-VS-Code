@@ -8,8 +8,8 @@
         "editorLineNumber.background": "#858889",
         "editorLineNumber.activeForeground": "#BBBEBF",
         "editorCursor.foreground": "#00FFAA",
-        "sideBar.background": "#151520",
-        "panel.background": "#191A2C",
+        "sideBar.background": "#121424",
+        "panel.background": "#121424",
         "titleBar.activeBackground": "#191A2C",
         "activityBar.background": "#191A2C",
         "activityBar.border": "#2A2B2CFF",
@@ -18,8 +18,9 @@
         "editorBracketHighlight.foreground1": "#00FFB3",
         "editorBracketHighlight.foreground2": "#00FFFF",
         "editorBracketHighlight.foreground3": "#47A7FF",
-        "editor.lineHighlightBackground": "#FFFFFF10"
-    },
+        "editor.lineHighlightBackground": "#FFFFFF10",
+        "editorWidget.background": "#191A2C"
+    }, 
     "tokenColors": [
         {
             "scope": "keyword",
